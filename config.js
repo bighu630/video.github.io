@@ -13,7 +13,7 @@ module.exports = {
     parseUrl : 'http://www.82190555.com/video.php?url=',
     movielist : [] ,                                                         // 存储了用户获取的电影列表信息
     userlist : 0,
-    host : '127.0.0.1',
+    host : '0.0.0.0',
     port: 8089,
     database : 'video',
     user : 'root',
