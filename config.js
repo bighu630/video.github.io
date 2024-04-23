@@ -14,7 +14,7 @@ module.exports = {
     movielist : [] ,                                                         // 存储了用户获取的电影列表信息
     userlist : 0,
     host : 'localhost',
-    port: 80,
+    port: 8080,
     database : 'video',
     user : 'root',
     password : '123456'
